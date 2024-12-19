@@ -121,17 +121,18 @@ These results underscore the impact of dataset characteristics and training conf
    cd genre-classification
 
 2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 
 3. Run the training script:
+   ```bash
 
-python train.py
-Evaluate the model:
+   python train.py
+   
+3.Evaluate the model:
+   ```bash
 
-bash
-Copy code
-python evaluate.py
+   
+   python evaluate.py
