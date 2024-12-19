@@ -119,3 +119,19 @@ These results underscore the impact of dataset characteristics and training conf
    ```bash
    git clone https://github.com/your-repo/genre-classification
    cd genre-classification
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
+
+3. Run the training script:
+
+python train.py
+Evaluate the model:
+
+bash
+Copy code
+python evaluate.py
