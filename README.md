@@ -124,12 +124,10 @@ These results underscore the impact of dataset characteristics and training conf
    ```bash
    pip install -r requirements.txt
 
-
-
 3. Run the training script:
    ```bash
    python train.py
    
-4.Evaluate the model:
-   ```bash
-   python evaluate.py
+4. Evaluate the model:
+      ```bash
+      python evaluate.py
