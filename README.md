@@ -128,11 +128,8 @@ These results underscore the impact of dataset characteristics and training conf
 
 3. Run the training script:
    ```bash
-
    python train.py
    
-3.Evaluate the model:
+4.Evaluate the model:
    ```bash
-
-   
    python evaluate.py
